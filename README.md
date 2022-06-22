@@ -1,4 +1,4 @@
-![HELLO!](https://www.shutterstock.com/image-vector/programming-code-coding-hacker-background-icon-1714491562)
+![coding image](https://user-images.githubusercontent.com/104776646/175038474-dc0cf050-8d6b-4b2f-9828-29f65f49353e.jpg)
 <h1 align="center">Hi 👋, I'm Ofem John</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofemjohn&theme=dark&show_icons=true)
