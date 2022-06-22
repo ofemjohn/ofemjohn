@@ -1,4 +1,4 @@
-![code palace official Git Hub](https://github.com/ofemjohn/ofemjohn/blob/main/coding%20image.jpg
+![HELLO!](https://www.shutterstock.com/image-vector/programming-code-coding-hacker-background-icon-1714491562)
 <h1 align="center">Hi 👋, I'm Ofem John</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofemjohn&theme=dark&show_icons=true)
