@@ -35,16 +35,10 @@ I'm Ofem John, a passionate Full Stack Developer based in Atlanta, Georgia, USA.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactnative/reactnative-icon.svg" alt="React Native" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expo/expo-icon.svg" alt="Expo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" alt="Flask" width="40" height="40"/>
 </p>
 
 ### Connect with Me
