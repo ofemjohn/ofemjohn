@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ofem John 👋</h1>
-<h3 align="center">Passionate Full Stack Developer | Nigeria</h3>
+<h3 align="center">Passionate Full Stack Developer | USA </h3>
 
 <p align="center">
   <a href="https://twitter.com/ofemjohn" target="_blank"><img src="https://img.shields.io/twitter/follow/ofemjohn?label=Follow&style=social" alt="Twitter"></a>
